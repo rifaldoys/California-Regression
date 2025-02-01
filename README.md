@@ -1,4 +1,4 @@
-# README: Analisis dan Prediksi Harga Rumah di California
+# Analisis dan Prediksi Harga Rumah di California
 
 ## Deskripsi
 Repositori ini berisi kode Python untuk melakukan analisis eksploratif dan prediksi harga rumah di California menggunakan dataset `fetch_california_housing` dari `sklearn.datasets`. Proyek ini mencakup berbagai teknik pemrosesan data, eksplorasi data, pemodelan regresi, dan evaluasi model untuk memahami faktor-faktor yang mempengaruhi harga rumah di wilayah tersebut.
